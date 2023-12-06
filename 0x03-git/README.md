@@ -1,1 +1,1 @@
-In this project, I learned the basics of Git
+In this project, I learned the basics and functionalities of Git and Github 
